@@ -1,4 +1,4 @@
-const baseURL = "https://api.xecades.xyz/api";
+const baseURL = "https://card.api.chickoi.com/api";
 const icons = [
     "alipay",
     "bilibili",
